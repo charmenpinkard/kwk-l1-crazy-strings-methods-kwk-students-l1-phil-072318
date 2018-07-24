@@ -2,5 +2,5 @@
 
 def crazy_strings(a,b)
 a = a.upcase.reverse
-b = b.
+b = b.swapcase.
 end
